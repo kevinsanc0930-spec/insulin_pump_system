@@ -10,7 +10,7 @@ Dual microcontroller insulin pump system for monitoring glucose levels and deliv
 - Safety cutoff
 
 #Tech Used
-- C language
+- C language / Code Composer IDE
 - UART serial communication
 - Microcontrollers (MSP432P4111)
 - Hardware prototyping
